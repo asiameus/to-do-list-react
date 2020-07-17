@@ -8,7 +8,7 @@ const TaskList = ({tasks, hideDoneTasks}) => (
                 className={`taskList__item${task.done && hideDoneTasks ? " taskList__item--hidden" : ""}`}
             >
                 <button className="taskList__button taskList__button--toggleDone">
-                    {task.done ? "✔️" : ""}
+                    {task.done ? "✔" : ""}
                 </button>
                 <span className={`taskList__name${task.done ? " taskList__name--done" : ""}`}>
                     {task.name}
