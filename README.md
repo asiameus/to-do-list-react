@@ -1,11 +1,16 @@
 # To-do list - React
 
+## Demo
+
+https://asiameus.github.io/to-do-list-react/
+
+![Notebook with a to-do list](https://github.com/asiameus/to-do-list-react/blob/gh-pages/to-do-list-small.jpg?raw=true)
 
 ## Description
 
 With that simple app you can make your own to-do list, mark the tasks that you've already done or remove them from the list.
 
-## Technologies used:
+## Technologies used
 - HTML
 - CSS
 - JavaScript
